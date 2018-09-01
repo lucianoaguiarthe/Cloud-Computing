@@ -12,9 +12,10 @@
 <p align="center"><img src="images/acesso-instancia/01 - puttygen.png"  width="478" height="469" align="middle"/></p>
 <h4 align="middle">Figura 01 - PuttyGen</h4>
 
+<p align="justify">Você deverá apresentar o caminho onde está localizada a chave privada no seu computador, Figura 2, todavia sua chave não será reconhecida, selecione no canto inferior esquerdo a opção  <b>All Filles (*.*)</b>, e carregue a chave desejada.</p>
 <p align="center"><img src="images/acesso-instancia/02 - load key.png"  width="669" height="472" align="middle"/></p>
 
-<p align="justify">Você deverá apresentar o caminho onde está localizada a chave privada no seu computador, Figura 2, todavia sua chave não será reconhecida, selecione no canto inferior esquerdo a opção  <b>All Filles (*.*)</b>, e carregue a chave desejada.</p>
+
 <p align="center"><img src="images/acesso-instancia/03 - save-private-key.png"  width="668" height="474" align="middle"/></p>
 <h4 align="middle">Figura 02 - Chave Privada</h4>
 

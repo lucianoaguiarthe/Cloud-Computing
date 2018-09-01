@@ -1,13 +1,17 @@
-# SERVIÇO SAMBA
-<p align="justify">O Samba é um serviço disponível para Sistemas Operacionais Linux que permite compartilhar diretórios e impressoras, bem como implementar um controlador de domínio. A primeira versão do Samba foi disponibilizada em 1992, e escrita por Andrew Tridgell, um Australiano que na época era estudante de ciências da computação, atualmente encontra-se em sua versão 4, a grande novidade desta versão são as implementações de Diretivas de Grupos. Para o seu funcionamento necessita da instalação dos seguintes pacotes:</p>
+# ACESSO UMA INSTÂNCIA NA AWS
+<p align="justify">O propósito deste material é lhe orientar como o administrador de sistemas deve acessar uma instância na AWS utilizando um sistema operacional Windows, diante do exposto considera-se que a instância já deva está criado no ambiente e a chave privada gerada e baixada em seu computador. A chave privada é um arquivo que possui uma extensão <b>pem</b>.</p>
+
+<p align="justify">Para acessar acessar remotamente um servidor deve fazer o download de uma aplicação de acesso remoto sugiro o <b>Putty</b>, disponibilizei o link do  instalador para os sistemas operacionais Windows de 32 bits e 64 bits lobo abaixo, neste pacote de instação é também disponibilizado o <b>puttygen</b>, aplicativo necessário para converter a chave primário para o padrão Windows, já que a chave disponibilizada pela a AWS é para ambiente Linux</p>
 
 [Putty 32 bits](https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.70-installer.msi)
 
 [Putty 64 bits](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.70-installer.msi)
 
 
+<p align="justify">Ao concluir a instação acesse o menu iniciar o menu Putty e abra o aplicativo Puttygen </p>
 
-<p align="center"><img src="images/acesso-instancia/01-menu-iniciar-putty.png"  width="315" height="331" align="middle"/></p>
+<p align="center"><img src="images/acesso-instancia/01 - puttygen.png"  width="478" height="469" align="middle"/></p>
+<h4 align="middle">Figura 01 - PuttyGen</h4>
 
 <p align="center"><img src="images/acesso-instancia/02 - load key.png"  width="669" height="472" align="middle"/></p>
 

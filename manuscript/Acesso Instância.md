@@ -18,15 +18,15 @@
 <p align="center"><img src="images/acesso-instancia/04 - name-instance.png"  width="900" height="389" align="middle"/></p>
 
 
-<p align="center"><img src="images/acesso-instancia/05 - putty-name-instance.png"  width="800" height="493" align="middle"/></p>
+<p align="center"><img src="images/acesso-instancia/05 - putty-name-instance.png"  width="451" height="444" align="middle"/></p>
 
-<p align="center"><img src="images/acesso-instancia/06 - username.png"  width="800" height="493" align="middle"/></p>
+<p align="center"><img src="images/acesso-instancia/06 - username.png"  width="451" height="443" align="middle"/></p>
 
-<p align="center"><img src="images/acesso-instancia/07 - putty-privatekey.png"  width="800" height="493" align="middle"/></p>
+<p align="center"><img src="images/acesso-instancia/07 - putty-privatekey.png"  width="452" height="442" align="middle"/></p>
 
-<p align="center"><img src="images/acesso-instancia/08 - save-session.png"  width="800" height="493" align="middle"/></p>
+<p align="center"><img src="images/acesso-instancia/08 - save-session.png"  width="451" height="442" align="middle"/></p>
 
-<p align="center"><img src="images/acesso-instancia/09 - sessao-aws.png"  width="800" height="493" align="middle"/></p>
+<p align="center"><img src="images/acesso-instancia/09 - sessao-aws.png"  width="662" height="417" align="middle"/></p>
 
 
 

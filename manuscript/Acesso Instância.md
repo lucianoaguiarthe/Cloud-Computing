@@ -15,7 +15,7 @@
 <p align="center"><img src="images/acesso-instancia/03 - save-private-key.png"  width="668" height="474" align="middle"/></p>
 
 
-<p align="center"><img src="images/acesso-instancia/04-nome-instance.png"  width="900" height="389" align="middle"/></p>
+<p align="center"><img src="images/acesso-instancia/04-nome-instance.png"  width="980" height="424" align="middle"/></p>
 
 
 <p align="center"><img src="images/acesso-instancia/05 - putty-name-instance.png"  width="451" height="444" align="middle"/></p>

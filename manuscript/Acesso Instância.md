@@ -9,7 +9,7 @@
 
 <p align="center"><img src="images/acesso-instancia/01-menu-iniciar-putty.png"  width="315" height="331" align="middle"/></p>
 
-<p align="center"><img src="images/acesso-instancia/02 - load key.png"  width="800" height="493" align="middle"/></p>
+<p align="center"><img src="images/acesso-instancia/02 - load key.png"  width="669" height="472" align="middle"/></p>
 
 
 <p align="center"><img src="images/acesso-instancia/03 - save-private-key.png"  width="800" height="493" align="middle"/></p>

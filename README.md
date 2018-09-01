@@ -11,6 +11,6 @@
 ## Sumário
 
 
-1. [Acessando uma Instância AWS](manuscript/acesso.md)
+1. [Acessando uma Instância na AWS](manuscript/acesso.md)
 1. [Configurando Serviços EC2](manuscript/apache.md)
 2. [Configurando Cluster na AWS](manuscript/squid.md)

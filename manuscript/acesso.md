@@ -1,4 +1,4 @@
-# ACESSO UMA INSTÂNCIA NA AWS
+# ACESSANDO UMA INSTÂNCIA NA AWS
 <p align="justify">O propósito deste material é lhe orientar como o administrador de sistemas deve acessar uma instância na AWS utilizando um sistema operacional Windows, diante do exposto considera-se que a instância já deva está criado no ambiente e a chave privada gerada e baixada em seu computador. A chave privada é um arquivo que possui uma extensão <b>pem</b>.</p>
 
 <p align="justify">Para acessar acessar remotamente um servidor deve fazer o download de uma aplicação de acesso remoto sugiro o <b>Putty</b>, disponibilizei o link do  instalador para os sistemas operacionais Windows de 32 bits e 64 bits lobo abaixo, neste pacote de instação é também disponibilizado o <b>puttygen</b>, aplicativo necessário para converter a chave primário para o padrão Windows, já que a chave disponibilizada pela a AWS é para ambiente Linux</p>
